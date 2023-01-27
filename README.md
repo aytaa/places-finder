@@ -1,4 +1,4 @@
-[![Build Status](https://app.travis-ci.com/aytaa/route-finder.svg?branch=master)](https://app.travis-ci.com/aytaa/route-finder)
+[![Build Status](https://app.travis-ci.com/aytaa/places-finder.svg?branch=master)](https://app.travis-ci.com/aytaa/places-finder)
 
 # Places Finder
 
